@@ -1,0 +1,401 @@
+0,Clinical Psychology
+1,Political Science
+2,Mechanical Engineering
+3,Speech Language Pathology
+4,Mathematics
+5,Statistics
+6,Chemical Engineering
+7,Electrical Engineering
+8,Finance
+9,Art History
+10,Anthropology
+11,Electrical And Computer Engineering
+12,Audiology
+13,Social Psychology
+14,Biostatistics
+15,Biomedical Engineering
+16,Architecture
+17,Pure Mathematics
+18,Materials Science And Engineering
+19,Social Work
+20,Accounting
+21,Astronomy
+22,Comparative Literature
+23,Creative Writing
+24,Geography
+25,Classics
+26,Communication
+27,Urban Planning
+28,Public Health
+29,Marketing
+30,American History
+31,Adult Clinical Psychology
+32,American Studies
+33,Applied Mathematics
+34,Journalism
+35,Aerospace Engineering
+36,Applied Physics
+37,Industrial Engineering
+38,Developmental Psychology
+39,Management
+40,Education
+41,Public Administration
+42,Biomedical Sciences
+43,Advanced Mechanical Engineering
+44,Communication Sciences And Disorders
+45,Materials Science
+46,International Relations
+47,Occupational Therapy
+48,International Affairs
+49,Communication Disorders
+50,Data Science
+51,Biological Sciences
+52,Civil And Environmental Engineering
+53,Applied Economics
+54,Spanish
+55,Higher Education
+56,Environmental Engineering
+57,Medical Physics
+58,Experimental Psychology
+59,East Asian Studies
+60,Bioinformatics
+61,Communication Studies
+62,Operations Management
+63,Literature
+64,Mechanical
+65,Urban And Regional Planning
+66,Library And Information Science
+67,Mechanical And Aerospace Engineering
+68,Operations Research
+69,Landscape Architecture
+70,Chemical And Biomolecular Engineering
+71,Nuclear Engineering
+72,Information Science
+73,Industrial Organizational Psychology
+74,Physics And Astronomy
+75,Supply Chain Management
+76,Public Affairs
+77,Chemical And Biological Engineering
+78,Social Welfare
+79,Near Eastern Studies
+80,Creative Writing Fiction
+81,History of Art
+82,Clinical Mental Health Counseling
+83,Mental Health Counseling
+84,Medieval Studies
+85,Industrial And Systems Engineering
+86,Pharmacology
+87,Management Science and Engineering
+88,Applied Statistics
+89,Material Science And Engineering
+90,Astrophysics
+91,Organizational Behavior
+92,Information
+93,Applied Linguistics
+94,Computational Biology
+95,City Planning
+96,Criminal Justice
+97,German
+98,Information Studies
+99,Molecular Biology
+100,Agricultural Economics
+101,European History
+102,Media Studies
+103,Engineering Management
+104,Behavioral Neuroscience
+105,Archaeology
+106,International Development
+107,Education Policy
+108,Financial Economics
+109,Communications
+110,Business Administration
+111,Cultural Anthropology
+112,Latin American Studies
+113,Planning
+114,Photography
+115,Biomedical Science
+116,Aerospace
+117,Quantitative Psychology
+118,Theatre
+119,Cinema Studies
+120,Pharmaceutical Sciences
+121,Performance Studies
+122,Cancer Biology
+123,Strategy
+124,Asian Studies
+125,Higher Education Administration
+126,Plant Biology
+127,Cultural Studies
+128,Health Policy
+129,Biomedical Informatics
+130,Biological Engineering
+131,Atmospheric Science
+132,Geological Sciences
+133,Historic Preservation
+134,Playwriting
+135,Brain And Cognitive Sciences
+136,Library Science
+137,Marriage And Family Therapy
+138,International Studies
+139,East Asian Languages and Cultures
+140,Chemical Biology
+141,Biological Science
+142,Middle Eastern Studies
+143,Industrial Design
+144,Cinema And Media Studies
+145,Rhetoric and Composition
+146,Organic Chemistry
+147,Material Science
+148,Information Systems
+149,Business Analytics
+150,Global Affairs
+151,Materials Engineering
+152,Environmental Science
+153,Mass Communication
+154,Media Arts And Sciences
+155,Communication Sciences
+156,Arts Administration
+157,Actuarial Science
+158,International Education
+159,Graphic Design
+160,Studio Art
+161,Oceanography
+162,Special Education
+163,Visual Studies
+164,Global Health
+165,Human Development
+166,African American Studies
+167,Environmental Management
+168,Creative Writing Poetry
+169,Theoretical Physics
+170,Anthroplogy
+171,Counselor Education
+172,Financial Engineering
+173,Earth Science
+174,Slavic Languages And Literatures
+175,Analytical Chemistry
+176,Pathobiology
+177,Health Services Research
+178,Environmental Studies
+179,Chemical Engieenring
+180,Structural Engineering
+181,Machine Learning
+182,American Culture
+183,Fine Arts
+184,Communicative Disorders
+185,Medicinal Chemistry
+186,Molecular Biosciences
+187,Government Political Science
+188,Sustainable Development
+189,Environmental Health Sciences
+190,Advanced Chemical Engineering
+191,Sociocultural Anthropology
+192,Classical Studies
+193,Modern European History
+194,Software Engineering
+195,Media Lab
+196,Social Policy
+197,Management Science
+198,Italian
+199,Biological Anthropology
+200,Policy Analysis
+201,Communication Science
+202,Advertising
+203,Clinical
+204,Ancient History
+205,Strategic Management
+206,Social Anthropology
+207,Systematic Theology
+208,Sociomedical Sciences
+209,Hispanic Linguistics
+210,Fine Art
+211,Arts Management
+212,Annenberg School For Communication
+213,Environmental Health
+214,Social Science
+215,Visual Arts
+216,Computational Linguistics
+217,Demography
+218,Earth Sciences
+219,Clinical Science
+220,Integrative Biology
+221,German Studies
+222,Latin American History
+223,Applied Behavior Analysis
+224,International Economics
+225,Mechancial Engineering
+226,Marine Biology
+227,Medical Anthropology
+228,Medieval History
+229,Atmospheric Sciences
+230,Africana Studies
+231,Health Behavior
+232,Humanities
+233,Continental Philosophy
+234,Urban Education Policy
+235,Pharmaceutics
+236,Classical Archaeology
+237,Comparative Literary Studies
+238,African History
+239,Second Language Studies
+240,Urban Design
+241,Pharmaceutical Science
+242,Mass Communications
+243,Molecular Medicine
+244,Human Genetics
+245,Applied Anthropology
+246,Plant Pathology
+247,Acting
+248,Aeronautics
+249,Urban Education
+250,Management Information Systems
+251,Social Data Science
+252,Committee On International Relations
+253,American Civilization
+254,Engineering Mechanics
+255,Art Therapy
+256,Comparative Human Development
+257,Biological Chemistry
+258,Community Health Sciences
+259,International Education Policy
+260,Educational Studies
+261,Learning Sciences
+262,Historical Theology
+263,Digital Media
+264,International Education Development
+265,Marine Science
+266,Molecular Engineering
+267,Interaction Design
+268,Statistical Science
+269,Physical Chemistry
+270,International Security
+271,Project Management
+272,Regional Planning
+273,Hispanic Studies
+274,International Health
+275,Islamic Studies
+276,Behavioral Science
+277,Political Theory
+278,Chronic Disease Epidemiology
+279,Italian Studies
+280,Social Sciences
+281,Physical Therapy
+282,Political Economy
+283,Performing Arts Administration
+284,Environmental Policy
+285,Organization Studies
+286,Educational Leadership
+287,Applied Sociology
+288,International Educational Development
+289,Early Childhood Education
+290,Information Management
+291,Visual Art
+292,Human Factors
+293,Art Education
+294,Computational Neuroscience
+295,Anthropolgy
+296,Health Services
+297,Ocean Engineering
+298,American Culture Studies
+299,Ceramics
+300,Artificial Intelligence
+301,Middle East Studies
+302,Public Policy
+303,Biology
+304,Microbiology
+305,Biochemistry
+306,Robotics
+307,Biophysics
+308,Biotechnology
+309,Business
+310,Business Economics
+311,Neurobiology
+312,Biosciences
+313,Systems Biology
+314,Bioscience
+315,Public History
+316,Hebrew Bible
+317,Bioengineering
+318,Public Service
+319,Economics
+320,Computer Science
+321,Physics
+322,Sociology
+323,Chemistry
+324,Linguistics
+325,Neuroscience
+326,Psychology
+327,Counseling Psychology
+328,School Psychology
+329,Civil Engineering
+330,Genetic Counseling
+331,Musicology
+332,Cognitive Psychology
+333,Music Composition
+334,French
+335,Politics
+336,Ethnomusicology
+337,Food Science
+338,Geophysics
+339,Criminology
+340,Cognitive Science
+341,Counseling
+342,Music Theory
+343,Fiction
+344,School Counseling
+345,Genetics
+346,Ethnic Studies
+347,Geosciences
+348,Sculpture
+349,Ecology
+350,Cognitive Neuroscience
+351,Genome Sciences
+352,Forensic Psychology
+353,Screen Cultures
+354,Security Studies
+355,Comm Sciences
+356,Music Technology
+357,Polymer Science
+358,Geoscience
+359,Forensic Science
+360,Decision Sciences
+361,Community Psychology
+362,Security Policy Studies
+363,Neurosciences
+364,Policy Studies
+365,Child Development
+366,Development Sociology
+367,Engineering Science
+368,Film Production
+369,Foreign Service
+370,Genetic Counselling
+371,Epidemiology
+372,Religious Studies
+373,Museum Studies
+374,Development Studies
+375,Film Studies
+376,Divinity
+377,Gender Studies
+378,Feminist Studies
+379,Womens Studies
+380,Design
+381,Food Studies
+382,English
+383,Religion
+384,Petroleum Engineering
+385,Geology
+386,Government
+387,Theology
+388,Poetry
+389,Engineering
+390,Systems Engineering
+391,Entomology
+392,Kinesiology
+393,Meteorology
+394,Immunology
+395,Nursing
+396,Zoology
+397,Writing
+398,Philosophy
+399,History
+400,Nutrition

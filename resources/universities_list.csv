@@ -1,0 +1,680 @@
+0,Stanford University
+1,Columbia University
+2,University of Chicago
+3,University of California, Berkeley
+4,Yale University
+5,Massachusetts Institute of Technology (MIT)
+6,Washington University in St. Louis (WashU/WUSTL)
+7,Harvard University
+8,University of Michigan (Ann Arbor)
+9,University of California, Los Angeles
+10,University of Washington
+11,University of Texas at Austin
+12,University of Pennsylvania
+13,University of California, San Diego
+14,University of Florida
+15,Vanderbilt University
+16,University of Arizona
+17,Carnegie Mellon University
+18,University of Virginia
+19,University of Maryland
+20,Ohio State University
+21,University of Minnesota
+22,University of Iowa
+23,Michigan State University
+24,University of California, Davis
+25,Syracuse University
+26,University of Wisconsin-Madison
+27,Northeastern University
+28,Penn State University
+29,Virginia Tech
+30,University of Utah
+31,University of Notre Dame
+32,California Institute of Technology
+33,University of California, Irvine
+34,University of Southern California
+35,University of North Carolina
+36,Arizona State University
+37,University of Delaware
+38,Georgia Institute of Technology
+39,University of California, Santa Barbara
+40,University of Georgia
+41,North Carolina State University
+42,University of South Florida
+43,University of Waterloo
+44,University of Wisconsin-Milwaukee
+45,Georgia State University
+46,University of Cambridge
+47,University of Colorado, Boulder
+48,UNC Chapel Hill
+49,Macquarie University
+50,University of British Columbia
+51,George Washington (GW)
+52,College of Charleston
+53,University of Kansas
+54,University of Cincinnati
+55,American University
+56,Fordham University
+57,University of Alberta
+58,University of South Carolina
+59,Oregon State University
+60,George Mason University
+61,Gannon University
+62,Portland State University
+63,Brandeis University
+64,Penn State (Pennsylvania State University)
+65,Iowa State University
+66,Georgia College & State University
+67,Indiana University Bloomington
+68,SUNY Buffalo
+69,Auburn University
+70,Wayne State University
+71,Columbia GSAPP
+72,Baylor University
+73,Western Michigan University
+74,Marquette University
+75,Colorado State University
+76,University of Calgary
+77,Dartmouth College
+78,Rensselaer Polytechnic Institute
+79,McMaster University
+80,Washington State University
+81,University of Scranton
+82,Kent State University
+83,UC San Diego
+84,Louisiana State University
+85,University of Miami
+86,University of California, Santa Cruz
+87,West Virginia University
+88,Nova Southeastern University
+89,University of Ottawa
+90,Eastern Michigan University
+91,Central Michigan University
+92,University of Western Ontario
+93,Tulane University
+94,University of North Texas
+95,University of Massachusetts, Amherst
+96,Teachers College
+97,DePaul University
+98,Illinois State University
+99,Pacific University
+100,Bowling Green State University
+101,NYU Steinhardt
+102,UC Santa Barbara
+103,Pratt Institute
+104,Simon Fraser University
+105,UC Santa Cruz
+106,Adelphi University
+107,University of Adelaide
+108,Cambridge University
+109,Johns Hopkins Bloomberg School of Public Health
+110,Case Western Reserve University
+111,Montclair State University
+112,Southwest Minnesota State University
+113,Loyola University Chicago
+114,Eastern Washington
+115,Harvard School of Public Health
+116,Oklahoma State University
+117,Columbia University (Fu Foundation)
+118,University of Texas at El Paso
+119,New York University (NYU) - Steinhardt
+120,University of California, San Francisco
+121,London School of Economics & Political Science (LSE)
+122,University of California, Riverside
+123,University of New Hampshire
+124,SUNY Albany
+125,University of Oklahoma
+126,Carleton University
+127,San Jose State University
+128,UC San Diego (UCSD)
+129,Purdue University - West Lafayette
+130,Cornell (Ithaca)
+131,University of Rhode Island
+132,Purdue University West Lafayette
+133,University of Illinois, Chicago (UIC)
+134,Hofstra University
+135,Texas Tech University
+136,Appalachian State University
+137,INSEAD
+138,University of North Georgia
+139,National University of Ireland Galway (NUI Galway)
+140,Colorado School of Mines
+141,University of Montana
+142,University of Alabama
+143,New York Medical College
+144,University of California, Los Angeles (UCLA)
+145,Clark University
+146,University of Nebraska–Lincoln
+147,Penn State (PSU)
+148,Claremont Graduate University
+149,Idaho State University
+150,Columbia Business School
+151,Florida State University (FSU)
+152,La Salle University
+153,Grambling State University
+154,University of Akron
+155,Rhode Island School of Design (RISD)
+156,Valdosta State University
+157,University of Michigan (Dearborn)
+158,San Diego State University (SDSU)
+159,James Madison University
+160,Columbia Journalism School
+161,Park University
+162,Harvard Business School
+163,Villanova University
+164,Yale School of Architecture
+165,Kean University
+166,Virginia Commonwealth University
+167,University of Northern Colorado
+168,Harvard Graduate School of Education
+169,San Francisco State University
+170,Western Carolina University
+171,Penn State (PSU) University Park
+172,University of Central Florida (UCF)
+173,Teachers College, Columbia University
+174,Chapman University
+175,University of Victoria
+176,Catholic University of America
+177,Cleveland State University
+178,Imperial College London
+179,UC Santa Barbara (UCSB)
+180,Kansas State University
+181,Columbia Mailman School of Public Health
+182,SUNY Binghamton
+183,University of Hawaii at Manoa
+184,SUNY New Paltz
+185,Dalhousie University
+186,Northern Arizona University
+187,Columbia SIPA
+188,Columbia Teachers College
+189,University of Arkansas
+190,UC Santa Cruz (UCSC)
+191,Harvard Divinity School
+192,Loyola University Maryland
+193,Salus University
+194,Wake Forest University
+195,Concordia University
+196,University of South Dakota
+197,Radford University
+198,Arkansas State University
+199,Gallaudet University
+200,Seton Hall University
+201,San Francisco State University (SFSU)
+202,New Mexico State University
+203,MIT Media Lab
+204,Sacred Heart University
+205,Lake Erie College of Osteopathic Medicine
+206,Florida International University
+207,University of Newcastle
+208,Rowan University
+209,Ball State University
+210,Grand Valley State University
+211,Utah State University
+212,University of Prince Edward Island
+213,University of Redlands
+214,University of Manitoba
+215,College of William and Mary
+216,Howard University
+217,Loyola Chicago
+218,University of Tulsa
+219,Ithaca College
+220,Wichita State University
+221,Yale Divinity School
+222,University of Baltimore
+223,Western Washington
+224,Johns Hopkins SAIS
+225,University of New Haven
+226,University of Texas of the Permian Basin (UTPB)
+227,Australian National University
+228,University of North Dakota
+229,University of Texas at San Antonio
+230,University of Delaware (UDel)
+231,UNC-Chapel Hill
+232,UC San Francisco (UCSF)
+233,Southern Connecticut State University
+234,University of Louisiana
+235,University of Wisconsin-Eau Claire
+236,Concordia Seminary
+237,Nazareth College
+238,Kellogg School of Management
+239,Florida Atlantic University (FAU)
+240,University of Regina
+241,MIT Sloan School of Management
+242,University of Colorado Denver
+243,Indiana State University
+244,Sarah Lawrence College
+245,East Carolina University (ECU)
+246,North Carolina Central University
+247,University of the Pacific
+248,Niagara University
+249,Johns Hopkins (SAIS)
+250,School of the Art Institute Of Chicago (SAIC)
+251,University of New England
+252,New School For Social Research
+253,Memorial University of Newfoundland
+254,Princeton Theological Seminary
+255,University of South Alabama
+256,NC State University (NCSU)
+257,Rutgers (State University of New Jersey)
+258,Mount Sinai School of Medicine
+259,University of Hartford
+260,Missouri State University
+261,University of West Florida
+262,SUNY Fredonia
+263,Courant Institute of Mathematical Sciences
+264,Bard College
+265,Manhattan College
+266,Yale School of Public Health
+267,Minnesota State University
+268,Salisbury University
+269,Albert Einstein College of Medicine
+270,Governors State University
+271,University of San Francisco
+272,Texas State University
+273,University of Dayton
+274,University of Nevada, Reno
+275,Loma Linda University
+276,Eastern Illinois University
+277,Parsons The New School For Design
+278,Goldman School of Public Policy
+279,University of Missouri-Kansas City
+280,University of Delaware (UD)
+281,California College of the Arts
+282,University of Manchester
+283,Tennessee State University
+284,University of Portland
+285,Jacksonville University
+286,University of Chicago Divinity School
+287,Marist College
+288,Saint Xavier University
+289,Worcester State University
+290,Morehead State University
+291,University of Saskatchewan
+292,John Jay College of Criminal Justice
+293,Central Washington
+294,Saint Louis University (SLU)
+295,Marshall University
+296,Chicago Booth
+297,William Paterson University
+298,Nova Southeastern
+299,Seattle Pacific University
+300,National University of Singapore
+301,King Abdullah University of Science and Technology (KAUST)
+302,Kansas City University of Medicine & Biosciences
+303,College of Saint Rose
+304,Boise State University
+305,Logan University
+306,Avila University
+307,San Diego State (SDSU)
+308,University of the Cumberlands
+309,University of West Georgia
+310,Northwest Missouri State University
+311,Hampton University
+312,Texas A&M University - College Station (TAMU)
+313,Lamar University
+314,Colorado State University - Fort Collins
+315,Long Island University, CW Post
+316,University of Texas at Dallas
+317,Michigan Technological University
+318,Leland Stanford Junior University
+319,Miami University (OH)
+320,Lehman College
+321,Icahn School of Medicine at Mount Sinai
+322,University of Maine
+323,Elliott School Of International Affairs
+324,University of Auckland
+325,Fashion Institute of Technology
+326,A.T. Still University of Health Sciences
+327,Yale School of Management
+328,George Mason
+329,Pacific University (Oregon)
+330,Eastern New Mexico University
+331,Wright State University
+332,London School of Economics and Political Science (LSE)
+333,Renssalear Polytechnic Institute (RPI)
+334,SUNY Plattsburgh
+335,Fairleigh Dickinson University
+336,George Mason University (GMU)
+337,Boston College, Lynch School of Education
+338,Florida Institute of Technology
+339,Chicago Booth School of Business
+340,MGH Institute of Health Professions
+341,Nicholls State University
+342,Central European University
+343,University of Maryland Baltimore
+344,ETH Zurich - Swiss Federal Institute of Technology
+345,University of Warwick
+346,Pace University
+347,University of Queensland
+348,Monash University
+349,Iona College
+350,Williams College
+351,School of Visual Arts
+352,University of Indianapolis
+353,New York University (NYU) - Wagner
+354,Courtauld Institute of Art
+355,St. Bonaventure University
+356,Armstrong Atlantic State University
+357,Pardee RAND Graduate School
+358,Curry School of Education - University of Virginia
+359,Yeshiva University
+360,East Stroudsburg University
+361,Laurentian University
+362,Rhode Island School of Design
+363,University of Tampa
+364,University of Central Arkansas
+365,University of Amsterdam
+366,San Jose State (SJSU)
+367,Maryville University
+368,Palo Alto University
+369,Mississippi State University
+370,University of Montevallo
+371,Oregon Health & Science University (OHSU)
+372,Haas School of Business
+373,CSU East Bay
+374,Fletcher School of Law and Diplomacy
+375,University of Northern Iowa
+376,Abilene Christian University
+377,University of Montreal
+378,Southern Illinois University, Carbondale
+379,Florida Gulf Coast University
+380,Edmund A. Walsh School of Foreign Service
+381,Nova South Eastern University
+382,Central European University (CEU)
+383,UCLA Anderson
+384,University of Otago
+385,University of Western Australia
+386,Johns Hopkins - Bloomberg School of Public Health
+387,Brigham Young University
+388,Thomas Jefferson University
+389,Adelphi - Garden City
+390,Robert R. McCormick School of Engineering and Applied Science
+391,Lakehead University
+392,University of Chicago Harris School
+393,Yale School of Art
+394,Texas Christian University (TCU)
+395,North Dakota State University
+396,Louisiana Tech University
+397,University of the District of Columbia
+398,Carnegie Mellon University (CMU) - Robotics Institute
+399,Midwestern University - Glendale
+400,Concordia University (Canada)
+401,Chicago Harris School of Public Policy
+402,Johns Hopkins School of Public Health
+403,St. Ambrose University
+404,Rollins School of Public Health
+405,Murray State University
+406,Colorado School of Public Health
+407,USC Marshall School of Business
+408,University of Pittsburgh Graduate School of Public Health
+409,Sam Houston State University
+410,South Carolina State University
+411,Duke University, Sanford School of Public Policy
+412,California State University Long Beach
+413,UC Berkeley School of Public Health
+414,Sarah Lawrence
+415,Woodrow Wilson School of Public and International Affairs
+416,Fuqua School of Business
+417,TU Delft, Netherlands
+418,Maxwell School of Citizenship and Public Affairs
+419,Missouri Western State University
+420,Mayo Clinic
+421,University of New South Wales
+422,University of Central Missouri
+423,University of Ontario Institute Technology
+424,Penn State University (PSU)
+425,Bryn Mawr College
+426,San Jose State University (SJSU)
+427,University of Idaho
+428,The Wharton School
+429,University of North Florida
+430,NYU Sackler
+431,European University Institute (EUI)
+432,University of New Orleans
+433,Keough School of Global Affairs
+434,Stanford Graduate School of Education
+435,Jackson Institute for Global Affairs
+436,Watson Institute for International and Public Affairs
+437,Queens (Canada)
+438,Eastern Kentucky University
+439,California State University, Los Angeles
+440,C.W. Post Long Island, LIU Post
+441,Wilfrid Laurier University
+442,Maryland Institute College of Art
+443,Daniel J. Evans School of Public Policy and Governance
+444,East Tennessee State University (ETSU)
+445,Baldwin Wallace University
+446,Yale School of Drama
+447,California State University, Fullerton
+448,University of Alabama at Birmingham
+449,Truman State University
+450,UNC Charlotte
+451,Montana State University
+452,Saint Johns University
+453,Texas Woman's University (TWU)
+454,California University of Pennsylvania
+455,Harvard Graduate School of Design
+456,St. Xavier University
+457,Minot State University
+458,LaSalle University
+459,Samford University
+460,Milken Institute School of Public Health
+461,San Francisco State (SFSU)
+462,Trachtenberg School of Public Policy and Public Administration
+463,Saint Marys College
+464,Cranbrook Academy of Art
+465,Southern Illinois University, Edwardsville
+466,Peabody College, Vanderbilt University
+467,University of Texas at Tyler
+468,Darden School of Business
+469,Alabama A & M University
+470,Henry Jackson School Of International Studies
+471,California State University, Northridge
+472,Saint Xavier
+473,Spalding University
+474,Sacred Heart
+475,Texas Tech Health Sciences Center
+476,Sam Nunn School of International Affairs
+477,Eastman School of Music
+478,Wesleyan University
+479,University of Texas at Rio Grande Valley
+480,University of Nebraska at Kearney
+481,Air Force Institute of Technology
+482,Embry-Riddle Aeronautical University
+483,Naval Postgraduate School
+484,Santa Clara University
+485,Clarkson University
+486,Alfred University
+487,Lawrence Technological University
+488,New Mexico Institute of Mining and Technology
+489,North Carolina A&T State University
+490,Oakland University
+491,South Dakota School of Mines and Technology
+492,Tennessee Technological University
+493,Jackson State University
+494,Faulkner University
+495,University of Texas at Arlington
+496,University Of Alaska (Anchorage)
+497,University of Alaska (Fairbanks)
+498,Loyola University New Orleans
+499,Southeast Missouri State University
+500,Stephen F. Austin State University
+501,University of Dallas
+502,Middle Tennessee State University
+503,Morgan State University
+504,College of Security and Intelligence
+505,Francis Marion University
+506,Georgia Southern University
+507,Bridgewater State University
+508,Moravian College
+509,Adler University
+510,University of Nevada, Las Vegas (UNLV)
+511,Brown University
+512,Boston University
+513,University of Pittsburgh
+514,Boston College
+515,SUNY Stony Brook
+516,Rutgers University - New Brunswick
+517,Rutgers - New Brunswick
+518,Butler University
+519,LIU Brooklyn
+520,Brooklyn College
+521,Dublin City University
+522,McCombs School of Business
+523,University of Melbourne
+524,University of Edinburgh
+525,London Business School
+526,University of Lethbridge
+527,Tinbergen Institute
+528,University of Bristol
+529,Rutgers University, New Brunswick
+530,Bloomsburg University
+531,UNC Greensboro
+532,London Business School (LBS)
+533,Stephen M. Ross School of Business
+534,Tuck School of Business
+535,Fontbonne University
+536,Bocconi University
+537,University of Sherbrooke
+538,Edinboro University
+539,University of New Brunswick
+540,Brock University
+541,Georgetown Public Policy Institute
+542,Tinbergen Institute (TI)
+543,Foster School Of Business
+544,University of Bridgeport
+545,Kelley School Of Business
+546,Webster University
+547,Cornell University
+548,Rice University
+549,University of Rochester
+550,McGill University
+551,University of Connecticut
+552,University of Kentucky
+553,City University of New York (CUNY)
+554,University of Technology, Sydney
+555,Clemson University
+556,University of New Mexico
+557,Emerson College
+558,London School of Economics
+559,Mercy College
+560,University of Munich
+561,University College Cork
+562,Princeton University
+563,Kennedy School of Government
+564,University of Limerick
+565,Spring Hill College
+566,UC RIVERSIDE
+567,Hunter College
+568,Molloy College
+569,University College London
+570,Rockefeller University
+571,Hendrix College
+572,West Chester University
+573,D'Youville College
+574,Illinois Institute of Technology
+575,Duke Divinity School
+576,Prescott College
+577,Le Moyne College
+578,Stephens College
+579,Western Kentucky University
+580,Cornell Tech
+581,Rockhurst University
+582,Elmhurst College
+583,Touro College
+584,St. John Fisher College
+585,Stevens Institute of Technology
+586,Queens College
+587,Georgetown University School of Foreign Service (SFS)
+588,Johns Hopkins School of Medicine
+589,Northern Kentucky University
+590,Simmons College
+591,Weill Cornell
+592,Rochester Institute of Technology
+593,New Jersey City University
+594,Stockton University
+595,Oregon Institute of Technology
+596,Worcester Polytechnic Institute
+597,Stockholm School of Economics (SSE)
+598,Mills College
+599,Stockholm University
+600,The College of New Jersey
+601,City College of New York
+602,Kings College London (KCL)
+603,Missouri University of Science & Technology
+604,New Jersey Institute of Technology
+605,Duke University
+606,Purdue University
+607,University of Oxford
+608,University of Sydney
+609,Lindenwood University
+610,Oxford University
+611,Drexel University
+612,University of Denver
+613,Drury University
+614,University of Toledo
+615,Old Dominion University
+616,Duquesne University
+617,Southern Methodist University
+618,Midwestern University - Downers Grove
+619,Longwood University
+620,Southern Methodist University (SMU)
+621,University of Windsor
+622,Widener University
+623,Drew University
+624,Pepperdine University
+625,Oxford Internet Institute
+626,Western Sydney University
+627,University of Detroit
+628,Northwestern University
+629,University of Toronto
+630,New York University
+631,University of Illinois
+632,University of Oregon
+633,Emory University
+634,Johns Hopkins University
+635,Georgetown University
+636,Temple University
+637,University of Houston
+638,Rutgers University
+639,Tufts University
+640,Rush University
+641,Troy University
+642,Ohio University
+643,Lehigh University
+644,Ryerson University
+645,York University
+646,University of Louisville
+647,Rutgers
+648,University of Memphis
+649,Towson University
+650,University of Vermont
+651,University of Wyoming
+652,Queens University
+653,Northern Illinois University (NIU)
+654,Stevenson University
+655,Queen's University
+656,University of Tennessee
+657,University of Mississippi
+658,University of Missouri
+659,University of Guelph
+660,University of Southern Mississippi
+661,St. Johns University
+662,Suffolk University
+663,Monmouth University
+664,St Johns University
+665,University of Missouri-St. Louis (UMSL)
+666,Roosevelt University
+667,Trent University
+668,Griffith University
+669,Northwestern Kellogg
+670,Western Illinois University
+671,Southern Oregon University
+672,UT Southwestern
+673,Ohio Northern University
+674,Hollins University
+675,Western University
+676,Stetson University
+677,St. John's University
+678,IUP
+679,IUPUI

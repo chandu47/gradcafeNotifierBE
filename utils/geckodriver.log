@@ -1,0 +1,255 @@
+1616179438397	geckodriver	INFO	Listening on 127.0.0.1:52372
+1616179438976	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofileq1LbaN"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616179447353	Marionette	INFO	Listening on port 52386
+1616179447474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616179560584	geckodriver	INFO	Listening on 127.0.0.1:53732
+1616179561611	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofileSnCc0C"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616179564523	Marionette	INFO	Listening on port 53746
+1616179564636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616179588713	geckodriver	INFO	Listening on 127.0.0.1:54559
+1616179588727	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofilezWd1Mb"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616179592054	Marionette	INFO	Listening on port 54564
+1616179592079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.thegradcafe.com"
+SourceActor threw an exception: Error: Failed to fetch https://s.adtelligent.com/sync.html?aid=563719. Code 2153394151.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://s.adtelligent.com/sync.html?aid=563719. Code 2153394151.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://s.adtelligent.com/sync.html?aid=563719. Code 2153394151.
+SourceActor threw an exception: Error: Failed to fetch https://s.adtelligent.com/sync.html?aid=555831. Code 2153394151.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://s.adtelligent.com/sync.html?aid=555831. Code 2153394151.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://s.adtelligent.com/sync.html?aid=555831. Code 2153394151.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1616179644452	geckodriver	INFO	Listening on 127.0.0.1:55624
+1616179645469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofileU24JnL"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616179648522	Marionette	INFO	Listening on port 55635
+1616179648611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.thegradcafe.com"
+SourceActor threw an exception: Error: Failed to fetch https://s.adtelligent.com/sync.html?aid=563719. Code 2153394151.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://s.adtelligent.com/sync.html?aid=563719. Code 2153394151.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://s.adtelligent.com/sync.html?aid=563719. Code 2153394151.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616180156816	Marionette	INFO	Stopped listening on port 52386
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616180158820	Marionette	INFO	Stopped listening on port 53746
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616180160849	Marionette	INFO	Stopped listening on port 54564
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616180163244	Marionette	INFO	Stopped listening on port 55635
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616180174498	geckodriver	INFO	Listening on 127.0.0.1:59486
+1616180175519	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofileoxmLPw"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616180178218	Marionette	INFO	Listening on port 59497
+1616180178338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616180283541	geckodriver	INFO	Listening on 127.0.0.1:60776
+1616180284562	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofileJCJhIb"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616180287183	Marionette	INFO	Listening on port 60787
+1616180287283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616180377212	geckodriver	INFO	Listening on 127.0.0.1:62024
+1616180378233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofilecpGSD1"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616180382132	Marionette	INFO	Listening on port 62035
+1616180382188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616180698992	geckodriver	INFO	Listening on 127.0.0.1:64444
+1616180700010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofile4r7VrM"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616180702934	Marionette	INFO	Listening on port 64455
+1616180703037	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1227 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1227 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1227 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616180748947	geckodriver	INFO	Listening on 127.0.0.1:65363
+1616180748962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofilexYggAA"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616180751673	Marionette	INFO	Listening on port 65368
+1616180751790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1227 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1227 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1227 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.thegradcafe.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616181218922	geckodriver	INFO	Listening on 127.0.0.1:52142
+1616181219937	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofilesI1htK"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616181222844	Marionette	INFO	Listening on port 52153
+1616181222885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1228 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616181238614	Marionette	INFO	Stopped listening on port 59497
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616181240405	Marionette	INFO	Stopped listening on port 60787
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616181242314	Marionette	INFO	Stopped listening on port 62035
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616181244186	Marionette	INFO	Stopped listening on port 64455
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616181246156	Marionette	INFO	Stopped listening on port 65368
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616181248138	Marionette	INFO	Stopped listening on port 52153
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616181252412	geckodriver	INFO	Listening on 127.0.0.1:52957
+1616181252427	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofilegIUyfa"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616181255036	Marionette	INFO	Listening on port 52962
+1616181255060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1616181317327	geckodriver	INFO	Listening on 127.0.0.1:53901
+1616181317340	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofileFlTKAo"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616181319966	Marionette	INFO	Listening on port 53906
+1616181320051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616181532666	geckodriver	INFO	Listening on 127.0.0.1:55579
+1616181532680	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/zg/sffws0gj5p39yw1x5ks9q9mc0000gp/T/rust_mozprofile649fqQ"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616181535303	Marionette	INFO	Listening on port 55584
+1616181535398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.thegradcafe.com/survey/post.php, line 965: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: https://www.thegradcafe.com/survey/post.php line 1240 > injectedScript, line 1: TypeError: $(...).ready is not a function
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

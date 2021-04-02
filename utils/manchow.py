@@ -80,6 +80,7 @@ class Manchow:
                 instAdmRow.set_program(program)
                 instAdmRow.set_resultInfo(resultInfo)
                 admResultRows.append(instAdmRow)
+        return admResultRows
 
 
     def _scrapId(self, idString):
