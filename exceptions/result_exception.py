@@ -1,5 +1,5 @@
 
-class UserSettingsException(Exception):
+class ResultException(Exception):
     def __init__(self, *args):
         if args:
             self.message = args[0]
@@ -8,9 +8,9 @@ class UserSettingsException(Exception):
 
     def __str__(self):
         if self.message:
-            return 'UserSettingsException, {0}'.format(self.message)
+            return 'ProgramResultException, {0}'.format(self.message)
         else:
-            return 'UserSettingsException'
+            return 'ProgramResultException'
 
 class ValidationException(Exception):
     def __init__(self, *args):

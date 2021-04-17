@@ -1,49 +1,36 @@
-from marshmallow import fields
+from marshmallow import fields, validates, ValidationError
 from flask_marshmallow import Marshmallow
-from database.model.user import UserSettings, Program, University
-from app_settings import app
+from database.model.user import UserSettings, Program
+from main import app
+from model.enums.degreeEnum import DegreeType
+from exceptions.user_settings_exception import ValidationException
+from model.enums.seasonEnum import AdmitSeason
 
 ma = Marshmallow(app)
 
-"""def init_settings_marshmallow(app):
-    ma.init_app(app)"""
-
-
-class UniversitySettingsSchema(ma.Schema):
-    class Meta:
-        fields = ('university','settingId','season','degree')
-
 class ProgramSettingsSchema(ma.Schema):
-    selectedUniversities = fields.List(ma.Nested(UniversitySettingsSchema))
-
-    class Meta:
-        fields = ('program', 'selectedUniversities')
-
-class UserSettingsSchema(ma.Schema):
-    selectedPrograms = fields.List(ma.Nested(ProgramSettingsSchema))
-
-    class Meta:
-        fields = ('enableRejectNotifs','enableInfoNotifs','selectedPrograms')
-
-
-
-
-"""class UserSettingsSchema(ma.Schema):
-    deviceId = fields.Str(required=True)
-    setting_id = fields.Int(required=True)
-    enableRejectNotifs = fields.Bool()
-    enableInfoNotifs = fields.Bool()
-    universitySettings = fields.List(fields.Nested("UniversitySettingSchema", many=True))
-
-    class Meta:
-        fields = ("deviceId", "setting_id", "enableRejectNotifs", "enableInfoNotifs", "universitySettings")
-
-
-class UniversitySettingSchema(ma.Schema):
     university = fields.Str()
     program = fields.Str()
     degree = fields.Str()
     season = fields.Str()
+    class Meta:
+        fields = ('program', 'university','settingId','season','degree')
+
+    @validates('degree')
+    def validate_degree( _, value):
+        if not DegreeType.has_value(value):
+            raise ValidationError('Invalid Degree passed in request')
+
+    @validates('season')
+    def validate_season( _ , value):
+        if value not in AdmitSeason.validSeasons:
+            raise ValidationError('Invalid Season passed in request')
+
+
+class UserSettingsSchema(ma.Schema):
+    selectedPrograms = fields.List(ma.Nested(ProgramSettingsSchema))
+    enableRejectNotifs = fields.Boolean()
+    enableInfoNotifs = fields.Boolean()
 
     class Meta:
-        fields = ("university", "program", "degree", "season")"""
+        fields = ('enableRejectNotifs','enableInfoNotifs','selectedPrograms')
