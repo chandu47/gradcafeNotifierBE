@@ -8,7 +8,7 @@ import datetime
 import re
 
 
-from main import app
+from app import app
 import requests
 
 class ScrapGCJob:

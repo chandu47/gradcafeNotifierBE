@@ -1,6 +1,6 @@
 from marshmallow import fields, validates, ValidationError
 from flask_marshmallow import Marshmallow
-from main import app
+from app import app
 
 ma = Marshmallow(app)
 

@@ -1,7 +1,7 @@
 from database.model.result import ProgramResult, UniResult
 from exceptions.result_exception import ResultException
 from database.model.user import UserSettings, User
-from main import app
+from app import app
 
 
 class ProgramUpdatesDAL:

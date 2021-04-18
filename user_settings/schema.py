@@ -1,7 +1,7 @@
 from marshmallow import fields, validates, ValidationError
 from flask_marshmallow import Marshmallow
 from database.model.user import UserSettings, Program
-from main import app
+from app import app
 from model.enums.degreeEnum import DegreeType
 from exceptions.user_settings_exception import ValidationException
 from model.enums.seasonEnum import AdmitSeason

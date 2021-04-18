@@ -42,7 +42,8 @@ class UserSettings(gj.EmbeddedDocument):
         return False
 
 class User(gj.Document):
-    deviceId = db.StringField(required = True, unique=True)
+    deviceId = db.StringField(unique=True)
+    device_token = db.StringField()
     device_type = db.StringField(required = True)
     created_at = db.DateTimeField(default = datetime.datetime.utcnow)
     last_notif_at = db.DateTimeField()

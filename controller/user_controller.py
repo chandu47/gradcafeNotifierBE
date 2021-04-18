@@ -3,6 +3,7 @@ from  database.model.user import User
 from utils.saveUnisAndProgramsToMongo import saveProgramsToMongo
 from utils.saveUnisAndProgramsToMongo import saveUniversitiesToMongo
 user_controller = Blueprint('user_controller', __name__)
+import uuid
 
 @user_controller.route('/')
 def rootRoute():
@@ -12,6 +13,11 @@ def rootRoute():
 @user_controller.route('/api/user/register', methods=['POST'])
 def registerUser():
     requestBody  = request.get_json()
-    user = User(**requestBody).save()
-    id = user.id
-    return {'id': str(id), 'status': 'OK'}, 200
+    try:
+        user = User(**requestBody)
+        user.deviceId = uuid.uuid4()
+        user.save()
+        id = user.deviceId
+        return {'status': 'OK', 'id': str(id)}, 200
+    except Exception as ex:
+        return {'Error': ex.__str__()}, 500

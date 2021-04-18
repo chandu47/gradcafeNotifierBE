@@ -1,7 +1,7 @@
 from database.model.user import User, UserSettings, Program, ProgramCommitInfo
 from database.model.program import Program as ProgramCol
 from database.model.university import University as UniCol
-from main import app
+from app import app
 from exceptions.user_settings_exception import UserSettingsException
 
 class UserSettingsDAL:
