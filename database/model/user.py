@@ -23,6 +23,7 @@ class Program(gj.EmbeddedDocument):
         return False
 
 class UserSettings(gj.EmbeddedDocument):
+    enableNotifs = db.BooleanField(default = True)
     selectedPrograms = db.EmbeddedDocumentListField(Program, default = [])
     enableRejectNotifs = db.BooleanField(default = False)
     enableInfoNotifs = db.BooleanField(default = False)
@@ -45,6 +46,7 @@ class User(gj.Document):
     deviceId = db.StringField(unique=True)
     device_token = db.StringField()
     device_type = db.StringField(required = True)
+    notif_consent = db.BooleanField(default = False)
     created_at = db.DateTimeField(default = datetime.datetime.utcnow)
     last_notif_at = db.DateTimeField()
     settings = db.EmbeddedDocumentField(UserSettings)
